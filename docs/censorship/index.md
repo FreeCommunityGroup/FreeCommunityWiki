@@ -65,3 +65,7 @@ encode는 base64로의 변환, decode는 base64로부터 변환을 뜻한다.
 
 - [encrypt-online.com](https://encrypt-online.com)(대칭)
 - [PGP](pgp.md)(비대칭)
+
+## 종합 난독화 웹사이트
+base64등의 다양한 난독화를 지원하는 사이트    
+[webcrypt.kro.kr](https://webcrypt.kro.kr)
