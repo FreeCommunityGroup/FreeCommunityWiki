@@ -53,7 +53,7 @@ nav:
 extra: 
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/opcweb/FreeCommunityWiki
+      link: https://github.com/FreeCommunityGroup/FreeCommunityWiki
     - icon: fontawesome/brands/kakao-talk
       link: https://open.kakao.com/o/gxgb8LPe
   tags:
@@ -89,7 +89,7 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 copyright: >- 
-  <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg" alt="CC BY-NC-SA" width="60"><br>Copyright &copy; 2025 <a href="https://github.com/opcweb">opcweb</a> All Rights Reserved. 특별히 명시되어있지 않은 경우, 이 사이트 내의 모든 저작물은 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ko">CC BY-NC-SA 라이선스</a>로 보호됩니다.
+  <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg" alt="CC BY-NC-SA" width="60"><br>Copyright &copy; 2025 <a href="https://github.com/FreeCommunityGroup">FreeCommunityGroup</a> All Rights Reserved. 특별히 명시되어있지 않은 경우, 이 사이트 내의 모든 저작물은 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ko">CC BY-NC-SA 라이선스</a>로 보호됩니다.
 
 repo_url: https://github.com/opcweb/FreeCommunityWiki
 repo_name: FreeCommunityWiki
