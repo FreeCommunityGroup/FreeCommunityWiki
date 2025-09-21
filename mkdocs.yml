@@ -47,6 +47,8 @@ nav:
     - censorship/pgp.md
   - 대시보드:
     - dashboard/index.md
+  - 암호화:
+    - https://webcrypt.kro.kr
   - 블로그:
     - blog/index.md
 
